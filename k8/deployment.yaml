@@ -17,7 +17,6 @@ spec:
    spec:
     containers:
     - name: myweb
-      image: gauravdemo06/appimage:v1
+      image: subbuyedida/appimage:v1
       Ports:
        - containerport:80
-
