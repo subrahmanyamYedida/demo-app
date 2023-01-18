@@ -19,5 +19,5 @@ spec:
     - name: myweb
       image: gauravdemo06/appimage:v1
       Ports:
-       - containerport:80A
+       - containerport:80
 
