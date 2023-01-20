@@ -19,4 +19,4 @@ spec:
     - name: myweb
       image: subbuyedida/appimage:v1
       Ports:
-       - containerport:80
+       - containerport: 80
