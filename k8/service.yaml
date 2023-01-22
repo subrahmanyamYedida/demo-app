@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: myfrontend-service01
+  name: myfrontend-service001
 spec:
   type: NodePort
   ports:
