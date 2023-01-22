@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
- name: mydeployment22
+ name: mydeployment02
 spec:
  strategy:
    type: RollingUpdate
